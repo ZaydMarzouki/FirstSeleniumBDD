@@ -1,0 +1,308 @@
+# Created at 2023-02-26T18:34:46.677
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:750)
+
+
+# Created at 2023-02-26T18:34:47.168
+Unexpected IOException with stream: s
+
+# Created at 2023-02-26T18:34:47.168
+Unexpected IOException with stream: i
+
+# Created at 2023-02-26T18:34:47.169
+Unexpected IOException with stream: d
+
+# Created at 2023-02-26T18:34:47.169
+Unexpected IOException with stream: e
+
+# Created at 2023-02-26T18:34:47.169
+Unexpected IOException with stream: r
+
+# Created at 2023-02-26T18:34:47.169
+Unexpected IOException with stream: a
+
+# Created at 2023-02-26T18:34:47.170
+Unexpected IOException with stream: t
+
+# Created at 2023-02-26T18:34:47.170
+Unexpected IOException with stream: i
+
+# Created at 2023-02-26T18:34:47.170
+Unexpected IOException with stream: o
+
+# Created at 2023-02-26T18:34:47.171
+Unexpected IOException with stream: n
+
+# Created at 2023-02-26T18:34:47.171
+Unexpected IOException with stream: s
+
+# Created at 2023-02-26T18:34:47.171
+Unexpected IOException with stream:  
+
+# Created at 2023-02-26T18:34:47.171
+Unexpected IOException with stream: f
+
+# Created at 2023-02-26T18:34:47.172
+Unexpected IOException with stream: o
+
+# Created at 2023-02-26T18:34:47.172
+Unexpected IOException with stream: r
+
+# Created at 2023-02-26T18:34:47.172
+Unexpected IOException with stream:  
+
+# Created at 2023-02-26T18:34:47.173
+Unexpected IOException with stream: s
+
+# Created at 2023-02-26T18:34:47.173
+Unexpected IOException with stream: u
+
+# Created at 2023-02-26T18:34:47.173
+Unexpected IOException with stream: g
+
+# Created at 2023-02-26T18:34:47.174
+Unexpected IOException with stream: g
+
+# Created at 2023-02-26T18:34:47.174
+Unexpected IOException with stream: e
+
+# Created at 2023-02-26T18:34:47.174
+Unexpected IOException with stream: s
+
+# Created at 2023-02-26T18:34:47.175
+Unexpected IOException with stream: t
+
+# Created at 2023-02-26T18:34:47.175
+Unexpected IOException with stream: i
+
+# Created at 2023-02-26T18:34:47.175
+Unexpected IOException with stream: o
+
+# Created at 2023-02-26T18:34:47.175
+Unexpected IOException with stream: n
+
+# Created at 2023-02-26T18:34:47.176
+Unexpected IOException with stream: s
+
+# Created at 2023-02-26T18:34:47.176
+Unexpected IOException with stream:  
+
+# Created at 2023-02-26T18:34:47.176
+Unexpected IOException with stream: o
+
+# Created at 2023-02-26T18:34:47.177
+Unexpected IOException with stream: n
+
+# Created at 2023-02-26T18:34:47.177
+Unexpected IOException with stream:  
+
+# Created at 2023-02-26T18:34:47.177
+Unexpected IOException with stream: k
+
+# Created at 2023-02-26T18:34:47.177
+Unexpected IOException with stream: e
+
+# Created at 2023-02-26T18:34:47.178
+Unexpected IOException with stream: e
+
+# Created at 2023-02-26T18:34:47.178
+Unexpected IOException with stream: p
+
+# Created at 2023-02-26T18:34:47.178
+Unexpected IOException with stream: i
+
+# Created at 2023-02-26T18:34:47.179
+Unexpected IOException with stream: n
+
+# Created at 2023-02-26T18:34:47.179
+Unexpected IOException with stream: g
+
+# Created at 2023-02-26T18:34:47.179
+Unexpected IOException with stream:  
+
+# Created at 2023-02-26T18:34:47.180
+Unexpected IOException with stream: C
+
+# Created at 2023-02-26T18:34:47.180
+Unexpected IOException with stream: h
+
+# Created at 2023-02-26T18:34:47.180
+Unexpected IOException with stream: r
+
+# Created at 2023-02-26T18:34:47.180
+Unexpected IOException with stream: o
+
+# Created at 2023-02-26T18:34:47.181
+Unexpected IOException with stream: m
+
+# Created at 2023-02-26T18:34:47.181
+Unexpected IOException with stream: e
+
+# Created at 2023-02-26T18:34:47.181
+Unexpected IOException with stream: D
+
+# Created at 2023-02-26T18:34:47.182
+Unexpected IOException with stream: r
+
+# Created at 2023-02-26T18:34:47.182
+Unexpected IOException with stream: i
+
+# Created at 2023-02-26T18:34:47.182
+Unexpected IOException with stream: v
+
+# Created at 2023-02-26T18:34:47.183
+Unexpected IOException with stream: e
+
+# Created at 2023-02-26T18:34:47.183
+Unexpected IOException with stream: r
+
+# Created at 2023-02-26T18:34:47.183
+Unexpected IOException with stream:  
+
+# Created at 2023-02-26T18:34:47.183
+Unexpected IOException with stream: s
+
+# Created at 2023-02-26T18:34:47.184
+Unexpected IOException with stream: a
+
+# Created at 2023-02-26T18:34:47.184
+Unexpected IOException with stream: f
+
+# Created at 2023-02-26T18:34:47.184
+Unexpected IOException with stream: e
+
+# Created at 2023-02-26T18:34:47.184
+Unexpected IOException with stream: .
+
+# Created at 2023-02-26T18:34:47.185
+Unexpected IOException with stream: 
+
+# Created at 2023-02-26T18:34:47.185
+Unexpected IOException with stream: 
+
+
+# Created at 2023-02-26T18:34:47.185
+Unexpected IOException with stream: C
+
+# Created at 2023-02-26T18:34:47.185
+Unexpected IOException with stream: h
+
+# Created at 2023-02-26T18:34:47.186
+Unexpected IOException with stream: r
+
+# Created at 2023-02-26T18:34:47.186
+Unexpected IOException with stream: o
+
+# Created at 2023-02-26T18:34:47.186
+Unexpected IOException with stream: m
+
+# Created at 2023-02-26T18:34:47.187
+Unexpected IOException with stream: e
+
+# Created at 2023-02-26T18:34:47.187
+Unexpected IOException with stream: D
+
+# Created at 2023-02-26T18:34:47.187
+Unexpected IOException with stream: r
+
+# Created at 2023-02-26T18:34:47.188
+Unexpected IOException with stream: i
+
+# Created at 2023-02-26T18:34:47.188
+Unexpected IOException with stream: v
+
+# Created at 2023-02-26T18:34:47.188
+Unexpected IOException with stream: e
+
+# Created at 2023-02-26T18:34:47.188
+Unexpected IOException with stream: r
+
+# Created at 2023-02-26T18:34:47.189
+Unexpected IOException with stream:  
+
+# Created at 2023-02-26T18:34:47.189
+Unexpected IOException with stream: w
+
+# Created at 2023-02-26T18:34:47.189
+Unexpected IOException with stream: a
+
+# Created at 2023-02-26T18:34:47.189
+Unexpected IOException with stream: s
+
+# Created at 2023-02-26T18:34:47.190
+Unexpected IOException with stream:  
+
+# Created at 2023-02-26T18:34:47.190
+Unexpected IOException with stream: s
+
+# Created at 2023-02-26T18:34:47.190
+Unexpected IOException with stream: t
+
+# Created at 2023-02-26T18:34:47.190
+Unexpected IOException with stream: a
+
+# Created at 2023-02-26T18:34:47.191
+Unexpected IOException with stream: r
+
+# Created at 2023-02-26T18:34:47.191
+Unexpected IOException with stream: t
+
+# Created at 2023-02-26T18:34:47.191
+Unexpected IOException with stream: e
+
+# Created at 2023-02-26T18:34:47.191
+Unexpected IOException with stream: d
+
+# Created at 2023-02-26T18:34:47.192
+Unexpected IOException with stream:  
+
+# Created at 2023-02-26T18:34:47.192
+Unexpected IOException with stream: s
+
+# Created at 2023-02-26T18:34:47.192
+Unexpected IOException with stream: u
+
+# Created at 2023-02-26T18:34:47.192
+Unexpected IOException with stream: c
+
+# Created at 2023-02-26T18:34:47.193
+Unexpected IOException with stream: c
+
+# Created at 2023-02-26T18:34:47.193
+Unexpected IOException with stream: e
+
+# Created at 2023-02-26T18:34:47.193
+Unexpected IOException with stream: s
+
+# Created at 2023-02-26T18:34:47.193
+Unexpected IOException with stream: s
+
+# Created at 2023-02-26T18:34:47.194
+Unexpected IOException with stream: f
+
+# Created at 2023-02-26T18:34:47.194
+Unexpected IOException with stream: u
+
+# Created at 2023-02-26T18:34:47.194
+Unexpected IOException with stream: l
+
+# Created at 2023-02-26T18:34:47.194
+Unexpected IOException with stream: l
+
+# Created at 2023-02-26T18:34:47.195
+Unexpected IOException with stream: y
+
+# Created at 2023-02-26T18:34:47.195
+Unexpected IOException with stream: .
+
+# Created at 2023-02-26T18:34:47.195
+Unexpected IOException with stream: 
+
+# Created at 2023-02-26T18:34:47.195
+Unexpected IOException with stream: 
+
+
